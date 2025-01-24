@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CRUD con Python 🐍 MySQL 💾 y un Dashboard Asombroso 🚀
 
 ##### Aprende a desarrollar un sistema CRUD utilizando Python 🐍 y MySQL 💾 mientras creas un impresionante panel de control. Este curso te guiará a través de la creación de aplicaciones interactivas y eficientes, permitiéndote gestionar datos con facilidad.
@@ -45,3 +46,6 @@
     Da las gracias públicamente 🤓.
 
 ## No olvides SUSCRIBIRTE 👍
+=======
+# ProyectoCloudGIA2
+>>>>>>> e66f50ce93c6312e82a6db520f8cd6c90cfb5ae1
